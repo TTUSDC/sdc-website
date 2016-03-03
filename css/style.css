@@ -1,0 +1,19 @@
+﻿.logo-color {
+    background-color: rgb(41,60,74);
+}
+
+.main-bg-color {
+    background-color: rgb(74,41,41);
+}
+
+.contents {
+    background-color: white;
+}
+
+a.nav-cursor {
+    cursor: pointer;
+}
+
+a.navcolor {
+    background-color: white;
+}
